@@ -1,0 +1,13 @@
+{
+  "name": "karma-filesort",
+  "version": "1.0.0",
+  "description": "Sort files before a Karma run.",
+  "main": "index.js",
+  "keywords": [
+    "karma-plugin",
+    "karma-framework",
+    "karma-adapter"
+  ],
+  "author": "Pavel Dranichnikov <wain-pc@mail.ru>",
+  "license": "MIT"
+}
